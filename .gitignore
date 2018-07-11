@@ -50,3 +50,9 @@ vignettes/*.pdf
 *.jpeg
 *.png
 
+
+# Random
+topics1.pdf
+topics2.pdf
+region-plot.pdf
+
