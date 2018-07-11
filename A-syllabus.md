@@ -1,8 +1,10 @@
 ### Overview
 
-This course introduces students to modern quantitative text analysis techniques, with the ultimate goal of providing the skills necessary to apply the methods in their own research. We will use the open source programming language `R`. Demonstration corpora are provided. 
+This course introduces students to modern quantitative text analysis techniques. The goal is to provide an orientation for those wishing to go further with text analysis in their own research. We will use the open source programming language `R`. Demonstration corpora are provided. 
 
 ### Prerequisites
+
+This course is geared towards social scientists who work with unstructured text data, including (but not limited to) news and media, open-ended surveys, social media posts, etc.
 
 Students must have basic computer skills, must be familiar with their computer’s file system, and must be comfortable entering commands in a command line environment. 
 
