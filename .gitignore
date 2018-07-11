@@ -44,3 +44,9 @@ vignettes/*.pdf
 *.toc
 *.txt
 *.tex
+
+# Images
+*.jpg
+*.jpeg
+*.png
+
