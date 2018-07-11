@@ -37,5 +37,9 @@ vignettes/*.pdf
 *.maf
 *.mtc
 *.mtc1
+*.nav
 *.out
+*.snm
 *.synctex.gz
+*.toc
+*.txt
