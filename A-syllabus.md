@@ -19,6 +19,10 @@ Please read the following to get a sense of what we'll be doing:
 
 See the [tech requirements page](B-Tech-Requirements.md) for detailed information on the software we'll be using. Please download and install **before coming to the workshop.** If you have difficulties installing, please contact Rochelle at rterman@gmail.com
 
+### Etherpad
+
+We'll be taking collaboritive notes here: https://etherpad.net/p/IPM-text
+
 ### Tentative Schedule
 
 ####  Day 1
