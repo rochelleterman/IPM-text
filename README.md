@@ -23,3 +23,10 @@ If you are a student, please complete the following tasks before class:
 
 ### Contact
 [Rochelle Terman](https://github.com/rochelleterman/): rterman@gmail.com
+
+### Acknowledgments
+
+This course adapts materials from the following organizations and individuals. Thank you!
+
+*   [Justin Grimmmer](http://www.justingrimmer.org/)
+*   [Allen Riddell](http://de.dariah.eu/tatom/)
